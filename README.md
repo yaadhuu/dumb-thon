@@ -181,27 +181,6 @@ for a real disaster response navigation system:
 
 ---
 
-## 👥 Team
-
-| Member | Role |
-|--------|------|
-| [Your Name] | Map, GPS routing, zones, paranoid timer |
-| [Teammate Name] | Boot screen, popups, rhythm hack, UI theme |
-
----
-
-## 📁 Project Structure
-```
-deadzone/
-├── public/
-│   └── index.html
-├── src/
-│   └── App.jsx        ← entire app in one file
-├── .env               ← API key (not in repo)
-├── .gitignore
-├── package.json
-└── README.md
-```
 
 ---
 
@@ -225,26 +204,3 @@ Get your free key at: openrouteservice.org
 ```
 
 ---
-
-## 🏆 Why DEADZONE Stands Out
-
-Most hackathon map apps show a route from A to B. 
-DEADZONE tells a story. Every feature — the paranoid 
-routing, the rhythm hack, the outbreak alerts — is 
-woven into a coherent narrative that makes the dumb 
-challenges feel intentional and dramatic rather than 
-bolted on. The result is a project that is technically 
-solid, visually cinematic, and genuinely fun to demo.
-
----
-
-## 🧟 Adapt. Engineer. Survive.
-
-> "The grid is down. Servers are burning. 
->  But DEADZONE is still online."
-
----
-
-*Built at Dumbathon 2.0 — Apocalypse Protocol*
-*Web/App Development Track*
-*March 2026*
