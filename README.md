@@ -1,6 +1,12 @@
 # 🧟 DEADZONE
-## Zombie Outbreak Evacuation Navigator
 
+![React](https://img.shields.io/badge/React-18-blue)
+![Leaflet](https://img.shields.io/badge/Leaflet-Map-green)
+![Hackathon](https://img.shields.io/badge/Event-Dumbathon%202.0-red)
+![Status](https://img.shields.io/badge/Status-Prototype-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+Zombie Outbreak Evacuation Navigator
 **Hackathon:** Dumbathon 2.0  
 **Track:** Web / App Development  
 
