@@ -121,6 +121,24 @@ To temporarily restore optimal routing, users must perform a rhythmic interactio
 | Browser Geolocation API | Real-time GPS tracking |
 
 ---
+## 🧠 System Architecture
+
+User Browser
+     │
+     │ (GPS location)
+     ▼
+Browser Geolocation API
+     │
+     ▼
+React Application
+     │
+     ├── Map Rendering → Leaflet + React Leaflet
+     │
+     ├── Route Calculation → OpenRouteService API
+     │
+     ├── UI Animation → Framer Motion
+     │
+     └── Popup / Game Logic → React State Management
 
 
 
