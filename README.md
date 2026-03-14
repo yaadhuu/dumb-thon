@@ -142,6 +142,16 @@ React Application
 
 
 
- DEMO
+
+## 📸 Screenshots
+
+### Boot Screen
+![Boot Screen](screenshots/boot-screen.png)
+
+### Map Interface
+![Map](screenshots/map-interface.png)
+
+### Paranoid Route
+![Route](screenshots/paranoid-route.png)
 
  
